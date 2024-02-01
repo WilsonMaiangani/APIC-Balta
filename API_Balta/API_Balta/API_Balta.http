@@ -1,0 +1,6 @@
+@API_Balta_HostAddress = http://localhost:5070
+
+GET {{API_Balta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
